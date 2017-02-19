@@ -1,0 +1,38 @@
+body {
+  background-color: #1da1f2;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin-top: 20px;
+  text-align: center;
+  color: #fff;
+}
+h1 {
+  font-family: 'Bree Serif', serif;
+}
+.box {
+  font-family: 'Alegreya', serif;
+  margin-top: 100px;
+}
+.trigger {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 10px;
+  text-transform: uppercase;
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+}
+.tweet {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+  border: 2px solid #fff;
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+}
+.trigger, .tweet {
+  margin-top: 50px;
+}
