@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #262626;
+  margin: 0;
+  padding: 0;
+}
+.main {
+  margin-top: 50px;
+  margin-left: 200px;
+}
+h1 {
+  color: #E5E5E5;
+  font-family: 'Righteous', cursive;
+}
+
+#search {
+  background-color: transparent;
+  font-family: 'Open Sans', sans-serif;
+  color: #E5E5E5;
+  padding: 10px;
+  border: 2px solid #fff;
+  margin-right: 10px;
+}
+#country-name {
+  padding: 10px;
+}
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #E5E5E5;
+}
+#countries {
+  list-style-type: none;
+  color: #E5E5E5;
+  padding: 0;
+}
+#earth {
+  position: relative;
+  width: 600px;
+  height: 300px;
+  margin-left: 50%;
+  background: url(http://media.gettyimages.com/videos/animation-of-the-effect-of-changing-sea-levels-on-the-land-area-video-id136817162?s=640x640) 0 0 repeat;
+  border-radius: 50px;
+}
